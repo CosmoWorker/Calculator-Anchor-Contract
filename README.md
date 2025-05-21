@@ -1,11 +1,12 @@
 ## Calculator Program
-This contract is made using anchor framework for writing contracts and tests for the solana blockchain. 
+This is a simple calculator contract made using anchor framework for writing contracts and tests for the solana blockchain. 
 
 ### Key Features 
 * Double
 * Add
 * Half
 * Subtract
+* Key tests for program
 ## Dependencies
 * Yarn
 * Anchor CLI
